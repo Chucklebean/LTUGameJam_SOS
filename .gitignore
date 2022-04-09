@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+LTUGameJam_SOS/Intermediate/CachedAssetRegistry.bin
+LTUGameJam_SOS/Saved/Autosaves/PackageRestoreData.json
+LTUGameJam_SOS/Saved/Config/Windows/Engine.ini
+LTUGameJam_SOS/Saved/Logs/LTUGameJam_SOS.log
